@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to MVC and related technologies.  
   
 
-- ⚡ Fun fact: I hate coding contradictly.  
+- ⚡ Fun fact: I start coding because I think its cool.  
   
 
 <br/>  
